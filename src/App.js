@@ -8,6 +8,7 @@ import './App.css';
 ? Move retreived horoscope to it's own component?
 *TODO: Make more tests
 *TODO: Refactor CSS
+*TODO: Remove unused files
 */
 
 class App extends Component {
